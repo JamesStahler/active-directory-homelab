@@ -95,9 +95,9 @@ Configured static IP addressing, DNS settings, and validated network connectivit
 
 Installed Active Directory Domain Services and promoted the server to a Domain Controller.
 
-![AD DS Installation](screenshots/04-active-directory-install/01-ad-ds-installation.png)
+![AD DS Installation](https://github.com/JamesStahler/active-directory-homelab/blob/main/screenshots/04-active-directory-install/02-ad-ds-role-installation-progress.png)
 
-![Domain Controller Promotion](screenshots/04-active-directory-install/03-domain-controller-promotion.png)
+![Domain Controller Promotion](https://github.com/JamesStahler/active-directory-homelab/blob/main/screenshots/04-active-directory-install/03-create-new-forest-homelab-local.png)
 
 ---
 
