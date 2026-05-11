@@ -85,9 +85,9 @@ Installed Windows Server and prepared the environment for Active Directory deplo
 
 Configured static IP addressing, DNS settings, and validated network connectivity for the domain controller.
 
-![Static IP Configuration](screenshots/03-dc-networking/01-static-ip-configuration.png)
+![Static IP Configuration](https://github.com/JamesStahler/active-directory-homelab/blob/main/screenshots/03-dc-networking/02-dc01-static-ip-dns-configuration.png)
 
-![IP Configuration Verification](screenshots/03-dc-networking/03-ipconfig-verification.png)
+![IP Configuration Verification](https://github.com/JamesStahler/active-directory-homelab/blob/main/screenshots/03-dc-networking/04-dc01-ipv4-properties.png)
 
 ---
 
