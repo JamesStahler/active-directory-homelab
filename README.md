@@ -57,8 +57,67 @@ The environment demonstrates enterprise IT administration concepts including:
 
 ## Screenshots
 
-Screenshots and deployment phases will be added throughout the project build.
+---
 
+### VM Setup
+
+Configured the Windows Server virtual machine hardware, networking adapters, and ISO installation media within VirtualBox.
+
+![VM Setup](screenshots/01-vm-setup/01-server-vm-memory-and-boot.png)
+
+![VM CPU Configuration](screenshots/01-vm-setup/02-server-vm-cpu-hardware.png)
+
+![VirtualBox Network Adapters](screenshots/01-vm-setup/04-server-vm-network-adapters.png)
+
+---
+
+### Windows Server Installation
+
+Installed Windows Server and prepared the environment for Active Directory deployment.
+
+![Windows Server Installation](screenshots/02-server-installation/01-windows-server-installation.png)
+
+![Server Manager Dashboard](screenshots/02-server-installation/03-server-manager-dashboard.png)
+
+---
+
+### Domain Controller Networking
+
+Configured static IP addressing, DNS settings, and validated network connectivity for the domain controller.
+
+![Static IP Configuration](screenshots/03-dc-networking/01-static-ip-configuration.png)
+
+![IP Configuration Verification](screenshots/03-dc-networking/03-ipconfig-verification.png)
+
+---
+
+### Active Directory Installation
+
+Installed Active Directory Domain Services and promoted the server to a Domain Controller.
+
+![AD DS Installation](screenshots/04-active-directory-install/01-ad-ds-installation.png)
+
+![Domain Controller Promotion](screenshots/04-active-directory-install/03-domain-controller-promotion.png)
+
+---
+
+### Active Directory Management
+
+Created and managed domain users, Organizational Units, and security-related administrative configurations.
+
+![Active Directory Users and Computers](screenshots/05-ad-management/01-active-directory-users-and-computers.png)
+
+![Organizational Unit Management](screenshots/05-ad-management/02-organizational-units-created.png)
+
+---
+
+### Domain Join and Authentication
+
+Joined the Windows client workstation to the domain and validated domain authentication functionality.
+
+![Domain Join](screenshots/08-domain-join-authentication/01-domain-join-success.png)
+
+![Whoami Verification](screenshots/08-domain-join-authentication/03-whoami-domain-verification.png)
 ---
 
 ## Future Improvements
