@@ -105,9 +105,9 @@ Installed Active Directory Domain Services and promoted the server to a Domain C
 
 Created and managed domain users, Organizational Units, and security-related administrative configurations.
 
-![Active Directory Users and Computers](screenshots/05-ad-management/01-active-directory-users-and-computers.png)
+![Active Directory Users and Computers](https://github.com/JamesStahler/active-directory-homelab/blob/main/screenshots/05-ad-management/03-creating-it-ou-users.png)
 
-![Organizational Unit Management](screenshots/05-ad-management/02-organizational-units-created.png)
+![Organizational Unit Management](https://github.com/JamesStahler/active-directory-homelab/blob/main/screenshots/05-ad-management/07-aduc-users-and-groups-view.png)
 
 ---
 
@@ -115,9 +115,8 @@ Created and managed domain users, Organizational Units, and security-related adm
 
 Joined the Windows client workstation to the domain and validated domain authentication functionality.
 
-![Domain Join](screenshots/08-domain-join-authentication/01-domain-join-success.png)
-
-![Whoami Verification](screenshots/08-domain-join-authentication/03-whoami-domain-verification.png)
+![Domain Join](https://github.com/JamesStahler/active-directory-homelab/blob/main/screenshots/08-domain-join-authentication/04-welcome-to-domain-confirmation.png)
+![Whoami Verification](https://github.com/JamesStahler/active-directory-homelab/blob/main/screenshots/08-domain-join-authentication/06-whoami-domain-user-verification.png)
 ---
 
 ## Future Improvements
