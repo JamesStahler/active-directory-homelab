@@ -77,7 +77,7 @@ Installed Windows Server and prepared the environment for Active Directory deplo
 
 ![Windows Server Installation](https://github.com/JamesStahler/active-directory-homelab/blob/main/screenshots/02-server-installation/01-windows-server-installation-progress.png)
 
-![Server Manager Dashboard](screenshots/02-server-installation/03-server-manager-dashboard.png)
+![Server Manager Dashboard](https://github.com/JamesStahler/active-directory-homelab/blob/main/screenshots/02-server-installation/02-server-manager-dashboard-initial.png)
 
 ---
 
